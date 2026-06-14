@@ -1,0 +1,9 @@
+{
+  "name": "legal-risk-management-tool",
+  "private": true,
+  "scripts": {
+    "install": "npm install --prefix Frontend",
+    "dev": "npm run dev --prefix Frontend",
+    "build": "npm run build --prefix Frontend"
+  }
+}
